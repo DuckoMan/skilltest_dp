@@ -1,0 +1,2 @@
+const SET_GAMES_COUNT = 'SET_GAME_COUNT'
+export { SET_GAMES_COUNT }
