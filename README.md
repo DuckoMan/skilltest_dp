@@ -5,5 +5,5 @@
 - NextJS
 - Styled Components
 - Redux
-- # API:
+# API:
 - Rawg API ( https://rawg.io/apidocs ) 
