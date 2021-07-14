@@ -1,6 +1,6 @@
 ## Тестовое задание
 
-#Front:
+# Front:
 - ReactJS
 - NextJS
 - Styled Components
